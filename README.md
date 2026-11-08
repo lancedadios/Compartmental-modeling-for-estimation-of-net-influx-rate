@@ -1,3 +1,5 @@
+Click this button to run this code in MATLAB online: [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=lancedadios/Compartmental-modeling-for-estimation-of-net-influx-rate&file=compartmentalmodelling.m)
+
 # Introduction
 
 In this project, the Healthy Dynamic PET (hedyPET) dataset containing \[F\-18\]FDG dynamic PET/CT of 100 healthy humans was used (Hinge et al., 2026). The provided time\-activity curves (TAC) as well as image\-derived input function (IDIF) in this dataset were used to calculate the net\-influx rate (Ki) for the brain through compartmental modeling. MATLAB was used for all data processing and analysis.
